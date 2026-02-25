@@ -48,6 +48,7 @@ Die in `Amazon Athena` mittels SQL berechneten und in `QuickSight` visualisierte
 
 ### 📈 QuickSight Dashboard Preview
 ![Dashboard Preview](dashboard_1.png)
+![Dashboard Preview](dashboard_2.png)
 
 ---
 
